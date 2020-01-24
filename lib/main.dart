@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dart:math';
+
 import 'changer.dart';
 
 void main() => runApp(myApp());
@@ -11,13 +11,6 @@ class myApp extends StatefulWidget {
 
 class myAppState extends State<myApp> {
   var defaultColor;
-
-  appBarColor(String defaultColor) {
-    setState(() {
-      this.defaultColor = Colors.red;
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

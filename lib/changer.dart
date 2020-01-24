@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-import 'main.dart';
+
 
 class Changer extends StatefulWidget {
   @override
