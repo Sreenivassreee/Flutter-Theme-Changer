@@ -6,7 +6,7 @@ A new Flutter project for changing Theme.
   
 ### Just clone the project and then nagivate to that path and run flutter project
 
-=> git clone <URL>.<br>
+=> git clone <URL> <br>
 => flutter run
 
 # Note :-
