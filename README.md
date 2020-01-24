@@ -9,6 +9,9 @@ A new Flutter project for changing Theme.
 => git clone <URL>.<br>
 => flutter run
 
+# Note :-
+## We can able to change colors based on our requiremates</P>
+  
 
 <p >
   <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_1.png" width="350" title="Screenshot-1 "><br>
@@ -21,3 +24,6 @@ A new Flutter project for changing Theme.
       <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_6.png" width="350" title="Screenshot-6 "><br>
        
 </p>
+
+## Developed by
+## K Sreenivas
